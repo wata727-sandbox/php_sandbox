@@ -1,5 +1,5 @@
 <?php
 
 if (true) {
-  print "OK";
+    print "OK";
 }
