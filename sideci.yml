@@ -1,5 +1,6 @@
 linter:
   code_sniffer:
+    version: 3
     options:
       standard: PSR2
 
