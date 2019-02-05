@@ -1,0 +1,3 @@
+- id: com.example.in_array
+  pattern: in_array(_, _)
+  message: in_arrayには第三引数を指定してください
